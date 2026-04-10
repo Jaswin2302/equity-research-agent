@@ -1,0 +1,14 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/equity.db
+
+# Environment variables - NEVER commit this
+backend/.env
+
+# Node
+frontend/node_modules/
+
+# Vite
+frontend/dist/
