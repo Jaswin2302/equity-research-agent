@@ -2,7 +2,6 @@
 
 **Live Demo:** [equity-research-agent-mauve.vercel.app](https://equity-research-agent-mauve.vercel.app)
 
-> Institutional-grade equity research reports generated in seconds, not hours.
 
 ---
 
