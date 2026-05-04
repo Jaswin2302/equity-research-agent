@@ -8,7 +8,7 @@ import {
 } from "recharts";
 import "./App.css";
 
-const API = "http://localhost:8000";
+const API = "https://equity-research-agent-production-7a32.up.railway.app";
 
 const formatNumber = (n) => {
   if (!n) return "N/A";
